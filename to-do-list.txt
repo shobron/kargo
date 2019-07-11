@@ -1,0 +1,8 @@
+To do List:
+
+1. Create Database
+2. Setting Environment
+3. Create API
+4. Create custom sort 
+5. Create unit testing
+6. Testing
