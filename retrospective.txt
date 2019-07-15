@@ -1,0 +1,8 @@
+1. Apa yang kurang?
+    Parameter sort masih spesifik ke satu saja, belum ada input untuk parameter secara general. Algoritma sort masih memerlukan time complexity yang besar.
+2. Apa yang menghambat?
+    Konfigurasi environment dan pembuatan unit testing, dimana diperlukan manajemen prioritas yang baik, sehingga ada tujuan yang telah di deliver walaupun fungsionalitasnya minimum. 
+3. Apa yang dapat diperbaiki?
+    Mengganti function sort dengan parameter general. Namun dapat diingat bahwa setiap solusi dan perubahan di sistem akan membawa problem baru.
+4. Apa yang dapat ditingkatkan?
+    Membuat unit testing secara otomatis dan mengganti algoritma sort.
